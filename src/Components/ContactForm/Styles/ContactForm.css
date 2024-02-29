@@ -1,0 +1,35 @@
+h1 {
+  font-size: 34px;
+}
+
+p {
+  font-size: 21px;
+  margin-bottom: 45px;
+}
+
+.contact-form {
+  color: #708090;
+}
+
+.form-group {
+  font-size: 18px;
+  position: relative;
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.input-field {
+  width: 200px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.input-field.submit {
+  color: white;
+  background-color: #708090;
+  border: 1px solid #708090;
+}
